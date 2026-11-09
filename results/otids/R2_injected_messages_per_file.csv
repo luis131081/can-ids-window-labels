@@ -1,0 +1,5 @@
+file,messages,injected,injected_%
+Attack_free_dataset.txt,2369398,0,0.0
+DoS_attack_dataset.txt,656579,335624,51.11707806676729
+Fuzzy_attack_dataset.txt,591988,0,0.0
+Impersonation_attack_dataset.txt,995472,5697,0.57229133516563

@@ -1,0 +1,10 @@
+Partition,Scenario,Windows,Windows with >=1 injected msg,Windows without injected msg (%)
+train,DoS,21010,21010,0.0
+train,Fuzzy,18943,0,100.0
+train,Impersonation,31855,3284,89.69078637576519
+val,DoS,5252,5252,0.0
+val,Fuzzy,4735,0,100.0
+val,Impersonation,7963,821,89.68981539620746
+test,DoS,6565,6565,0.0
+test,Fuzzy,5919,0,100.0
+test,Impersonation,9954,1005,89.90355635925256

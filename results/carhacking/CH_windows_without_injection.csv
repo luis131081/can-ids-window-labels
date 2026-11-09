@@ -1,0 +1,13 @@
+Partition,File,Windows,Windows without injected msg (%)
+train,DoS,32000,60.203125
+train,Fuzzy,32000,53.159375
+train,Gear spoofing,32000,44.375
+train,RPM spoofing,32000,45.340625
+val,DoS,8000,54.7125
+val,Fuzzy,8000,40.8125
+val,Gear spoofing,8000,44.4125
+val,RPM spoofing,8000,48.912499999999994
+test,DoS,10000,58.17
+test,Fuzzy,10000,44.45
+test,Gear spoofing,10000,48.980000000000004
+test,RPM spoofing,10000,48.29

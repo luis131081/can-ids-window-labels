@@ -1,0 +1,12 @@
+comparison,V3-C right / other wrong,V3-C wrong / other right,p_exact,other macroF1 CI95,p_holm,significant_holm
+V3-C vs Random Forest [R5_chronological_y_win],969,36,1.0332992103399709e-236,"[74.575, 74.629]",1.0332992103399709e-235,True
+V3-C vs Random Forest (tuned) [R6_tuned_y_win],969,36,1.0332992103399709e-236,"[74.574, 74.629]",1.0332992103399709e-235,True
+V3-C vs HistGradientBoosting (tuned) [R6_tuned_y_win],25,70,4.271012269463366e-06,"[99.407, 99.708]",2.5626073616780195e-05,True
+V3-C vs Logistic Regression (tuned) [R6_tuned_y_win],1079,37,0.0,"[79.599, 81.283]",0.0,True
+V3-C vs full [R7_ablation_y_win],19,26,0.3712980344710104,"[98.883, 99.307]",0.8034349945397612,False
+V3-C vs embedding(ID) + dt [R7_ablation_y_win],5,62,1.4195339782113736e-13,"[99.629, 99.842]",9.936737847479615e-13,True
+V3-C vs no_pool [R7_ablation_y_win],45,27,0.04437092000802569,"[98.504, 98.993]",0.22185460004012847,False
+V3-C vs cnn_only [R7_ablation_y_win],46,29,0.06394991646706692,"[98.591, 99.063]",0.2557996658682677,False
+V3-C vs lstm_only [R7_ablation_y_win],246,25,8.047179271311946e-47,"[95.570, 96.454]",6.437743417049557e-46,True
+V3-C vs full + dt [R7_ablation_y_win],28,38,0.2678116648465871,"[98.984, 99.372]",0.8034349945397612,False
+V3-C vs full + rtr [R7_ablation_y_win],40,50,0.34283311942078837,"[98.899, 99.315]",0.8034349945397612,False

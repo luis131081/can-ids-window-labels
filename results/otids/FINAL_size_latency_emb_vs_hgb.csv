@@ -1,0 +1,3 @@
+model,parameters,file size (KB),latency median (ms),p99 (ms)
+CNN-LSTM embedding(ID)+dt,50972.0,668.185546875,1.7557765004312387,3.5027829001774067
+HistGradientBoosting (tuned),,2905.998046875,12.246216999756143,21.56132928023907

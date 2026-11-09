@@ -1,0 +1,2 @@
+batch-1 latency CPU median (ms),batch-1 latency CPU p99 (ms),batch-1 latency GPU median (ms),window duration median (ms),window duration p95 (ms),"detection delay median, CPU (ms)",Keras weights fp32 (KB),TFLite fp32 (KB),TFLite dynamic-range int8 (KB)
+1.5810590011824388,3.026927931059617,1.3528789968404453,8.916999999996733,16.4209000000369,10.498059001179172,191.640625,,
